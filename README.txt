@@ -12,3 +12,9 @@ and finally 1507
 i made my first change in the project,
 in startup.cs file i changed the line 33 , where i removed "options => options.SignIn.RequireConfirmedAccount = true".
 
+and after saving the file I fired up my project to see if it works fine.
+
+1510
+It worked great, and workin fine.
+1516
+I changed the welcome message on the home page and tested the file by running it again.
