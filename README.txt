@@ -38,3 +38,5 @@ Next day and ruuning the application with no problems.
 1540
 Change the data in the layout.cshtml ,so it can automatically be updated at the end of the year.
 
+03-09-2023 1438
+cloned the reposotory and fired up the project.
