@@ -56,3 +56,6 @@ After Making all the changes , tried running the project.
 Running Perfectly fine.
 also upadating the navigation bar.
 Where Changing the name of "Home" to "Books", for our Future Books Database.
+
+1520
+Made Changes to Layout.cshtl because it wasnt Working
