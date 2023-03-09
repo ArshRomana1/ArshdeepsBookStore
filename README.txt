@@ -51,3 +51,8 @@ by following the instruction in the slides
 following the instructions from thye slides Made changes to the two files,
 _layout.cshtml and _LoginPartial.cshtml
 
+1500
+After Making all the changes , tried running the project.
+Running Perfectly fine.
+also upadating the navigation bar.
+Where Changing the name of "Home" to "Books", for our Future Books Database.
