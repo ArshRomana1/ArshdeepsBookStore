@@ -58,4 +58,8 @@ also upadating the navigation bar.
 Where Changing the name of "Home" to "Books", for our Future Books Database.
 
 1520
-Made Changes to Layout.cshtl because it wasnt Working
+Made Changes to Layout.cshtl because it wasnt Working.
+
+1548
+Added a dropdown menu link in the layout.cshtml file
+and ran it its working fine.
