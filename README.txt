@@ -40,3 +40,9 @@ Change the data in the layout.cshtml ,so it can automatically be updated at the 
 
 03-09-2023 1438
 cloned the reposotory and fired up the project.
+
+1442
+Starting to install new bootstrap file by downloading one from bootsswatch.com
+first I downloaded the bootstrap theme which I want to implement and the I changed the original bootstraps name in the project and
+added the new file to the css folder
+by following the instruction in the slides
