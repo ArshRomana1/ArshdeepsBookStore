@@ -46,3 +46,8 @@ Starting to install new bootstrap file by downloading one from bootsswatch.com
 first I downloaded the bootstrap theme which I want to implement and the I changed the original bootstraps name in the project and
 added the new file to the css folder
 by following the instruction in the slides
+
+1450
+following the instructions from thye slides Made changes to the two files,
+_layout.cshtml and _LoginPartial.cshtml
+
