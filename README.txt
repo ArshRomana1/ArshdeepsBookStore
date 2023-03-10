@@ -65,4 +65,8 @@ Made Changes to Layout.cshtl because it wasnt Working.
 Added a dropdown menu link in the layout.cshtml file
 and ran it its working fine.
 
+3/10/2023
+1526
 Added new projects and About to run now
+its running fine
+just waiting for the professor to mark it now
