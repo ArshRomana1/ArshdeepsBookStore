@@ -45,6 +45,7 @@ cloned the reposotory and fired up the project.
 Starting to install new bootstrap file by downloading one from bootsswatch.com
 first I downloaded the bootstrap theme which I want to implement and the I changed the original bootstraps name in the project and
 added the new file to the css folder
+the theme is "Sketchy"
 by following the instruction in the slides
 
 1450
@@ -63,3 +64,5 @@ Made Changes to Layout.cshtl because it wasnt Working.
 1548
 Added a dropdown menu link in the layout.cshtml file
 and ran it its working fine.
+
+Added new projects and About to run now
