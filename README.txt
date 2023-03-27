@@ -80,3 +80,10 @@ Created 3 Dependencies according to the instructions given in the slides and als
 "
 1635
 Installed NuGet Package : identity.entityframeWork Core
+
+1640
+Deleted the default class1 in the all projects also modified the NameSpace
+\
+1645
+Moved the Models folder to ArshdeepsBooks.Model, Added Preferences to the project
+Lastly we renamed the Models folder to ViewModels
