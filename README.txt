@@ -125,3 +125,9 @@ Application Running Fine
 
 1742
 Moved two files from Views to Customer called _viewImports.cshtml & _viewsstrat.cshtml
+
+1800
+Added A new Area called Admin
+Moved two files from Views to Admin called _viewImports.cshtml & _viewsstrat.cshtml
+Deleted the folders called Data and Model in the Admin Area
+Deleted the Controllers folder from the main project
