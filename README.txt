@@ -131,3 +131,7 @@ Added A new Area called Admin
 Moved two files from Views to Admin called _viewImports.cshtml & _viewsstrat.cshtml
 Deleted the folders called Data and Model in the Admin Area
 Deleted the Controllers folder from the main project
+
+18.02
+Ran the application and working fine
+part 1 of the assignmnet is officailly completed.
