@@ -92,3 +92,6 @@ Lastly we renamed the Models folder to ViewModels
 Firstly I modified the startup.cs file and encountered the errors and then resolved them with the given instructions
 Went to Error.cshtml and changed the namespace accordingly
 now I am gonna fire up the engines and try to run the Project
+
+1700
+Ran the project and its running file
