@@ -99,3 +99,10 @@ Ran the project and its running file
 1705
 Created a new class called SD.cs in the Utility project
 and modified the property of the class to public static
+
+Added prefernces to the projects-
+DataAcees 
+Main project
+
+Added A new Area called Customer and
+Modified the pattern of Startup.cs
