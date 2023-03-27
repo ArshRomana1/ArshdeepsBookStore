@@ -106,3 +106,10 @@ Main project
 
 Added A new Area called Customer and
 Modified the pattern of Startup.cs
+
+moved homeController to the contoller folder in the Area "Customer"
+and the deleted the folders called Data and Model in the Customer Area
+
+1719
+Edited the homeContoller.cs tp explicit define the customer and 
+moved the Home folder from views to the view in the "Customer"
