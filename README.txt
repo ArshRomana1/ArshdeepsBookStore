@@ -113,3 +113,9 @@ and the deleted the folders called Data and Model in the Customer Area
 1719
 Edited the homeContoller.cs tp explicit define the customer and 
 moved the Home folder from views to the view in the "Customer"
+
+1726
+Modified the homeconroller's Namespace
+
+1729
+Trying to run the Application
