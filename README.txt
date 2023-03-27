@@ -87,3 +87,8 @@ Deleted the default class1 in the all projects also modified the NameSpace
 1645
 Moved the Models folder to ArshdeepsBooks.Model, Added Preferences to the project
 Lastly we renamed the Models folder to ViewModels
+
+1655
+Firstly I modified the startup.cs file and encountered the errors and then resolved them with the given instructions
+Went to Error.cshtml and changed the namespace accordingly
+now I am gonna fire up the engines and try to run the Project
