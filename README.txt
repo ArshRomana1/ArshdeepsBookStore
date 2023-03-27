@@ -119,3 +119,9 @@ Modified the homeconroller's Namespace
 
 1729
 Trying to run the Application
+
+1740
+Application Running Fine 
+
+1742
+Moved two files from Views to Customer called _viewImports.cshtml & _viewsstrat.cshtml
