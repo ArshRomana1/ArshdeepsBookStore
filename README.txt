@@ -95,3 +95,7 @@ now I am gonna fire up the engines and try to run the Project
 
 1700
 Ran the project and its running file
+
+1705
+Created a new class called SD.cs in the Utility project
+and modified the property of the class to public static

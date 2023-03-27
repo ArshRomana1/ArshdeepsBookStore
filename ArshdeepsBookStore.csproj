@@ -16,6 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ArshdeepsBooks.DataAccess\ArshdeepsBooks.DataAccess.csproj" />
     <ProjectReference Include="..\ArshdeepsBooks.Models\ArshdeepsBooks.Models.csproj" />
+    <ProjectReference Include="..\ArshdeepsBooks.Utility\ArshdeepsBooks.Utility.csproj" />
   </ItemGroup>
 
 </Project>
