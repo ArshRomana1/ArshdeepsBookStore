@@ -141,3 +141,8 @@ part 1 of the assignmnet is officailly completed.
 Staarting the part 2 assignmnet,
 firstly I have made changes to the appsetting.json file and added the migrations
 "20230330233239_AddDefaultIdentityMigration.cs"
+
+19.45
+After First step , i encountered 6 errors and solved them later through migrations 
+and then updated the database by running 
+"update database" command
