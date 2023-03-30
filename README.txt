@@ -135,3 +135,9 @@ Deleted the Controllers folder from the main project
 18.02
 Ran the application and working fine
 part 1 of the assignmnet is officailly completed.
+
+3/30/2023
+19.33
+Staarting the part 2 assignmnet,
+firstly I have made changes to the appsetting.json file and added the migrations
+"20230330233239_AddDefaultIdentityMigration.cs"
