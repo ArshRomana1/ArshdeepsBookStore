@@ -142,6 +142,7 @@ Staarting the part 2 assignmnet,
 firstly I have made changes to the appsetting.json file and added the migrations
 "20230330233239_AddDefaultIdentityMigration.cs"
 "20230331003528_AddCategoryToDb.cs"
+And these are the timestamps
 
 19.45
 After First step , i encountered 6 errors and solved them later through migrations 
