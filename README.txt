@@ -160,3 +160,9 @@ now its showing the field of category in the table
 
 2045
 Part 1 of the assignmnet is completed, now on to the second part.
+
+2052
+Added a new interface called "IRepository.cs" in the subfolder "IRepository" of folder "Repository"
+which we all made in this step
+and the few errors occured in the IRepository.cs file and I solved them with 
+"Using" statements
