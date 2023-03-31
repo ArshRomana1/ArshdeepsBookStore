@@ -146,3 +146,14 @@ firstly I have made changes to the appsetting.json file and added the migrations
 After First step , i encountered 6 errors and solved them later through migrations 
 and then updated the database by running 
 "update database" command
+
+2000
+First we made a class called category.cs 
+then added migration and solved error which occured in 
+"applicationDbContext.cs"
+
+2040
+aDDED Category.cs file and had a lots of errors, it wasnt showing in the table.
+so I had to delete the cs file and then add again and after that i ran the migrayion command and also upadated the
+database
+now its showing the field of category in the table
