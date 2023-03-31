@@ -157,3 +157,6 @@ aDDED Category.cs file and had a lots of errors, it wasnt showing in the table.
 so I had to delete the cs file and then add again and after that i ran the migrayion command and also upadated the
 database
 now its showing the field of category in the table
+
+2045
+Part 1 of the assignmnet is completed, now on to the second part.
