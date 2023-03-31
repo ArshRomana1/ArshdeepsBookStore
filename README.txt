@@ -141,6 +141,7 @@ part 1 of the assignmnet is officailly completed.
 Staarting the part 2 assignmnet,
 firstly I have made changes to the appsetting.json file and added the migrations
 "20230330233239_AddDefaultIdentityMigration.cs"
+"20230331003528_AddCategoryToDb.cs"
 
 19.45
 After First step , i encountered 6 errors and solved them later through migrations 
@@ -189,3 +190,8 @@ pai ek hor interface Bananta called "IunitOfWork.cs" and made changes to it acco
 2135
 Made another class"UnitOfWork.cs "in the Repository folder and
 later made changes to the "startup.cs" file accordingly, modified configuration service modifer method
+
+2145
+Just finished the final step and ran the application and it is running Smoothly , no errors faced.
+Just waiting for the Preofessor to Mark it.
+:)
