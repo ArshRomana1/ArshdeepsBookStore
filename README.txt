@@ -166,3 +166,8 @@ Added a new interface called "IRepository.cs" in the subfolder "IRepository" of 
 which we all made in this step
 and the few errors occured in the IRepository.cs file and I solved them with 
 "Using" statements
+
+2100
+Now according to the Instructions
+I added a new class in the repository folder called "Repository.cs"
+I made changes according to the slides and then changed the using statements
