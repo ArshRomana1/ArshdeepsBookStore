@@ -1,3 +1,4 @@
+using ArshdeepsBooks.DataAccess.Repository;
 using ArshdeepsBookStore.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -12,6 +13,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+
 
 namespace ArshdeepsBookStore
 {
@@ -32,6 +34,7 @@ namespace ArshdeepsBookStore
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<IdentityUser>() // Removed "options => options.SignIn.RequireConfirmedAccount = true"
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<UnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
             services.AddRazorPages();
         }

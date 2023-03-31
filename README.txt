@@ -185,3 +185,7 @@ Added a class in the Repository folder called "SP_Call.cs" and fix the using sta
 
 2126
 pai ek hor interface Bananta called "IunitOfWork.cs" and made changes to it accordingly
+
+2135
+Made another class"UnitOfWork.cs "in the Repository folder and
+later made changes to the "startup.cs" file accordingly, modified configuration service modifer method
