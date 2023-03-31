@@ -171,3 +171,11 @@ and the few errors occured in the IRepository.cs file and I solved them with
 Now according to the Instructions
 I added a new class in the repository folder called "Repository.cs"
 I made changes according to the slides and then changed the using statements
+
+2112
+CategoryRepository.cs and ICategoryRepository.cs files are made as per then instructions
+and made the required changes to make it work, followed the instruction givern in the slides
+
+2115
+Added a new intrface called "ISP_Call.cs" in IRepository folder and installe4d  the package to 
+solve the errors
